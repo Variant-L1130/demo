@@ -1,2 +1,2 @@
 # demo
-newtogit
+new to git
